@@ -1,4 +1,12 @@
+Sample Input 0
 
+hello
+java
+Sample Output 0
+
+9
+No
+Hello Java
 
 
 import java.io.*;
