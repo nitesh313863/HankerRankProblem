@@ -1,3 +1,17 @@
+We then return the first (lexicographically smallest) substring and the last (lexicographically largest) substring as two newline-separated values (i.e., ava\nwel).
+
+The stub code in the editor then prints ava as our first line of output and wel as our second line of output.
+
+Sample Input 0
+
+welcometojava
+3
+
+Sample Output 0
+
+ava
+wel
+
 
 import java.util.Scanner;
 
